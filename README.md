@@ -1,4 +1,4 @@
-# Using Google Earth Engine for Classification of Land Use and Land Cover to Gain Insight on a Particular Region of Interest 🌬️
+# Using Machine Learning and Google Earth Engine to Understand Land Use and Land Cover Classifications and NO<sub>2</sub> Levels in California 🌬️
 ### About 🪞
 
 This repository contains code implementation of the paper "[Using Google Earth Engine for Classification of Land Use and Land Cover to Gain Insight on a Particular Region of Interest](https://docs.google.com/document/d/1p0YVHwsrCYGXpL26UvW9PkMp81LerD2MF_px0ZjUjGU/edit?usp=sharing)".
