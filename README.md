@@ -1,7 +1,7 @@
 # Using Machine Learning and Google Earth Engine to Understand Land Use and Land Cover Classifications and NO<sub>2</sub> Levels in California 🌬️
 ### About 🪞
 
-This repository contains code implementation of the paper, "[Using Machine Learning and Google Earth Engine to Understand Land Use and Land Cover Classifications and NO<sub>2</sub> Levels in California](https://www.google.com/)."
+This repository contains code implementation of the paper, "[Using Machine Learning and Google Earth Engine to Understand Land Use and Land Cover Classifications and NO<sub>2</sub> Levels in California](https://ieeexplore.ieee.org/abstract/document/10609851)."
 ### Note 📓
 The codebase currently only analyzes California as the region of interest.
 
@@ -29,5 +29,14 @@ Make sure to change the dataset path to where it is stored on your local machine
 
 ### Citation 🤝
 ```
-😄
+@INPROCEEDINGS{10609851,
+  author={Yacoob, Benyamain and Scheys, Ethan and Oladipo, Eyiara and Price, Andre and Banitaan, Shadi},
+  booktitle={2024 IEEE International Conference on Electro Information Technology (EIT)}, 
+  title={Using Machine Learning and Google Earth Engine to Understand Land Use and Land Cover Classifications and NO2 Levels in California}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={410-417},
+  keywords={Earth;Atmospheric modeling;Green products;Urban areas;Predictive models;Air quality;Internet;land use;land cover;air quality;nitrogen dioxide;machine learning;random forest classifier;decision tree classifier},
+  doi={10.1109/eIT60633.2024.10609851}}
 ```
